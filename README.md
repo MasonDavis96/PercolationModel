@@ -1,7 +1,7 @@
 # Percolation Model
 A program that utilizes the Weighted Quick Union Find algorithm to simulate the effects of water percolation from top to bottom<br><br>
 
-**NOTE:** The .txt files and the PercolationVisualizer.java class were provided. I had no involvement in the creation of that code, they were simply utiized by my Percolation.java class to draw the simulation.
+**NOTE:** The .txt files and the PercolationVisualizer.java class were provided. I had no involvement in the creation of that code, they were simply utiized by my Percolation.java class to draw the simulation.<br><br>
 
 
 # What I Learned
